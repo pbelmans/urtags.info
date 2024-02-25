@@ -1,0 +1,11 @@
+title: Moselle Upper-Rhine Algebraic Geometry Seminar
+email: pieter.belmans@uni.lu
+description: >- # this means to ignore newlines until "baseurl:"
+  The Moselle Upper-Rhine Algebraic Geometry Seminar is a regular seminar,
+  jointly organised by several universities in France, Germany, Switzerland and Luxembourg.
+
+# Build settings
+theme: minima
+
+sass:
+  quiet_deps: true
