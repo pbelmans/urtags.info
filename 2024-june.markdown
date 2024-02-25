@@ -1,0 +1,18 @@
+---
+layout: page
+title: upcoming
+permalink: /2024-june
+---
+
+### Practical
+
+The seminar will take place on **June 25** at the **University of Strasbourg**.
+More information is to come.
+
+### Speakers
+
+* Pieter Belmans (University of Luxembourg)
+* Davide Cesare Veniani (University of Stuttgart)
+
+### Titles and abstracts
+
