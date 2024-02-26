@@ -3,3 +3,18 @@
 ---
 
 @import "minima";
+
+
+dl {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+dl dt {
+  width: 35%;
+  padding-left: 1em;
+}
+
+dl dd {
+  width: 60%;
+}

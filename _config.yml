@@ -1,8 +1,8 @@
-#title: Moselle and Upper-Rhine Algebraic Geometry Seminar
-title: MURAGS
+#title: Upper-Rhine and Tributaries Algebraic Geometry Seminar
+title: URTAGS
 email: pieter.belmans@uni.lu
 description:
-  The Moselle and Upper-Rhine Algebraic Geometry Seminar is a regular seminar,
+  The Upper-Rhine and Tributaries Algebraic Geometry Seminar is a regular seminar,
   jointly organised by several universities in France, Germany, Switzerland and Luxembourg.
 
 plugins:
@@ -13,3 +13,8 @@ theme: minima
 
 sass:
   quiet_deps: true
+
+header_pages:
+  - 2024-june.markdown
+  - past.markdown
+  - about.markdown
