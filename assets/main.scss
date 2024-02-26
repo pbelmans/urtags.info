@@ -4,6 +4,18 @@
 
 @import "minima";
 
+main {
+  background-color: rgba(221, 244, 249, .3);
+}
+
+header {
+  background-color: #bae6f3;
+}
+
+span.menu-icon,
+nav.site-nav:has(input:checked) {
+  background-color: rgb(221, 244, 249);
+}
 
 dl {
   display: flex;
