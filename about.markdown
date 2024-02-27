@@ -20,6 +20,9 @@ University of Luxembourg
 University of Nancy
 : [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
 
+University of Saarbrücken
+: [Simon Bradhorst](https://www.math.uni-sb.de/ag/brandhorst/index.php?lang=en)
+
 University of Strasbourg
 : [Lie Fu](https://irma.math.unistra.fr/~lfu/)
 
