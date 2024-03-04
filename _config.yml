@@ -18,3 +18,6 @@ header_pages:
   - 2024-june.markdown
   - past.markdown
   - about.markdown
+
+exclude:
+  - README.md

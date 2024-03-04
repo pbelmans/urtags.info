@@ -20,13 +20,24 @@ nav.site-nav:has(input:checked) {
 dl {
   display: flex;
   flex-wrap: wrap;
+
+  dt {
+    width: 35%;
+    padding-left: 1em;
+  }
+  dd {
+    width: 60%;
+  }
 }
 
-dl dt {
-  width: 35%;
-  padding-left: 1em;
-}
+table {
+  tr {
+    &:nth-child(odd) {
+      background-color: rgba(221, 244, 249, .3);
+    }
 
-dl dd {
-  width: 60%;
+    &:nth-child(even) {
+      background-color: rgba(221, 244, 249, .8);
+    }
+  }
 }

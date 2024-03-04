@@ -6,19 +6,48 @@ permalink: /2024-june
 
 ### Practical
 
-The seminar will take place on **June 25** at the **University of Strasbourg**.
-More information is to come.
+The session will take place on **June 25** at the **University of Strasbourg**.
 
-### Speakers
+IRMA - Université de Strasbourg<br>
+Salle de conférence (ground floor)<br>
+10, rue du Général Zimmer<br>
+67000 Strasbourg, France
 
-* Pieter Belmans (University of Luxembourg)
-* Davide Cesare Veniani (University of Stuttgart)
-* Ya Deng (CNRS)
+### Schedule
 
-### Titles and abstracts
+|--------------|-|
+| 10:30--12:00 | [**Pieter Belmans: A panorama of quiver moduli**](#belmans) |
+| 12:00--13:30 | _lunch_ (in the common room on the ground floor) |
+| 13:30--14:30 | [**Ya Deng**](#deng") |
+| 14:30--15:00 | _coffee break_ |
+| 15:00--16:00 | [**Davide Cesare Veniani**](#cesare-veniani) |
+
+We intend to always feature one (longer) talk of a more survey-ish nature in each session.
+
+### Speakers, titles and abstracts
 
 **Pieter Belmans: A panorama of quiver moduli**
+<a name="belmans"></a>
+
+In this talk I will survey recent progress on the geometry of quiver moduli.
+These moduli spaces of (semi)stable quiver representations
+have many similarities with moduli spaces of vector bundles on curves,
+provided that you approach them from the right perspective.
+I will illustrate this dictionary between quivers and curves,
+in order to motivate how these two types of moduli spaces behave
+similarly from the point of view of
+symmetries,
+deformation theory,
+derived categories,
+stacky constructions,
+Brauer groups,
+rationality questions,
+etc.
+These similarities take on the form of analogies in the results,
+but also in the ingredients of the proofs.
 
 **Davide Cesare Veniani**
+<a name="cesare-veniani"></a>
 
 **Ya Deng**
+<a name="deng"></a>
