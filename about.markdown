@@ -9,7 +9,7 @@ permalink: /about/
 Organizing committee:
 
 University of Basel
-: [Philipp Habegger](https://numbertheory.dmi.unibas.ch/habegger/)
+: to be announced
 
 University of Freiburg
 : [Stefan Kebekus](https://cplx.vm.uni-freiburg.de/)
