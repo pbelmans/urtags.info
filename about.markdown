@@ -6,7 +6,9 @@ permalink: /about/
 
 {% include blurb.html %}
 
-Organizing committee:
+<small>If you follow the course of the Rhine you can eventually join the [Higher Geometric Structures along the Lower Rhine](https://utrechtgeometrycentre.nl/higher-geometric-structures-along-the-lower-rhine/) series of events.</small>
+
+## Organizing committee
 
 University of Basel
 : to be announced
