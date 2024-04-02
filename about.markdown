@@ -16,11 +16,11 @@ University of Basel
 University of Freiburg
 : [Stefan Kebekus](https://cplx.vm.uni-freiburg.de/)
 
-University of Luxembourg
-: [Pieter Belmans](https://pbelmans.ncag.info)
-
 Université de Lorraine
 : [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
+
+University of Luxembourg
+: [Pieter Belmans](https://pbelmans.ncag.info)
 
 University of Saarbrücken
 : [Simon Bradhorst](https://www.math.uni-sb.de/ag/brandhorst/index.php?lang=en)
