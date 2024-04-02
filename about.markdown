@@ -19,7 +19,7 @@ University of Freiburg
 University of Luxembourg
 : [Pieter Belmans](https://pbelmans.ncag.info)
 
-University of Nancy
+Université de Lorraine
 : [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
 
 University of Saarbrücken
