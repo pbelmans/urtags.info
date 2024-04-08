@@ -18,7 +18,7 @@ Salle de conférence (ground floor)<br>
 |--------------|-|
 | 10:30--12:00 | [**Pieter Belmans: A panorama of quiver moduli**](#belmans) |
 | 12:00--13:30 | _lunch_ (in the common room on the ground floor) |
-| 13:30--14:30 | [**Ya Deng**](#deng) |
+| 13:30--14:30 | [**Ya Deng: On the universal covering of algebraic varieties**](#deng) |
 | 14:30--15:00 | _coffee break_ |
 | 15:00--16:00 | [**Davide Cesare Veniani**](#cesare-veniani) |
 
@@ -52,4 +52,4 @@ but also in the ingredients of the proofs.
 **Ya Deng: On the universal covering of algebraic varieties**
 <a name="deng"></a>
 
- In his famous book « Basic Algebraic Geometry », Shafarevich asked whether the universal covering of a complex projective variety is homomorphically convex (so-called Shafarevich conjecture). Substantial progress on this conjecture was achieved by Campana, Kollar, Napier, Katzarkov, Ramachandran, Eyssidieux etc in the 1990s. In 2012 Eyssidieux et al proved the Shafarevich conjecture for smooth projective varieties whose fundamental groups are complex linear.  In this talk, I will report some recent progress on the extension of this conjecture to cases where the variety is singular or the fundamental groups are subgroups of general linear groups in positive characteristic.  If time permits, I will explain some applications in algebraic geometry. This is based on joint work with Yamanoi and Katzarkov.
+In his famous book _Basic Algebraic Geometry_, Shafarevich asked whether the universal covering of a complex projective variety is homomorphically convex (the so-called Shafarevich conjecture). Substantial progress on this conjecture was achieved by Campana, Kollar, Napier, Katzarkov, Ramachandran, Eyssidieux etc in the 1990s. In 2012 Eyssidieux et al. proved the Shafarevich conjecture for smooth projective varieties whose fundamental groups are complex linear.  In this talk, I will report some recent progress on the extension of this conjecture to cases where the variety is singular or the fundamental groups are subgroups of general linear groups in positive characteristic. If time permits, I will explain some applications in algebraic geometry. This is based on joint work with Yamanoi and Katzarkov.
