@@ -49,5 +49,7 @@ but also in the ingredients of the proofs.
 **Davide Cesare Veniani**
 <a name="cesare-veniani"></a>
 
-**Ya Deng**
+**Ya Deng: On the universal covering of algebraic varieties**
 <a name="deng"></a>
+
+ In his famous book « Basic Algebraic Geometry », Shafarevich asked whether the universal covering of a complex projective variety is homomorphically convex (so-called Shafarevich conjecture). Substantial progress on this conjecture was achieved by Campana, Kollar, Napier, Katzarkov, Ramachandran, Eyssidieux etc in the 1990s. In 2012 Eyssidieux et al proved the Shafarevich conjecture for smooth projective varieties whose fundamental groups are complex linear.  In this talk, I will report some recent progress on the extension of this conjecture to cases where the variety is singular or the fundamental groups are subgroups of general linear groups in positive characteristic.  If time permits, I will explain some applications in algebraic geometry. This is based on joint work with Yamanoi and Katzarkov.
