@@ -46,8 +46,12 @@ etc.
 These similarities take on the form of analogies in the results,
 but also in the ingredients of the proofs.
 
-**Davide Cesare Veniani**
+**Davide Cesare Veniani: Non-degeneracy of Enriques surfaces**
 <a name="cesare-veniani"></a>
+
+Enriques' original construction of Enriques surfaces dates back to 1896. It involves a 10-dimensional family of sextic surfaces in the projective space which are non-normal along the edges of a tetrahedron. An even earlier construction of Enriques surfaces is due to Reye and is known as Reye congruences. 
+In a series of joint works with G. Martin and G. Mezzedimi, we have now settled two questions: (1) Do all Enriques surfaces arise through Enriques' construction? (2) Do all nodal Enriques surface arise as Reye congruences?
+In my talk, I will illustrate our results and review the main ideas involved in their proofs, with a particular emphasis on the concept of non-degeneracy.
 
 **Ya Deng: On the universal covering of algebraic varieties**
 <a name="deng"></a>
