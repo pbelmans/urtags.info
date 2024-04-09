@@ -20,7 +20,7 @@ Salle de conférence (ground floor)<br>
 | 12:00--13:30 | _lunch_ (in the common room on the ground floor) |
 | 13:30--14:30 | [**Ya Deng: On the universal covering of algebraic varieties**](#deng) |
 | 14:30--15:00 | _coffee break_ |
-| 15:00--16:00 | [**Davide Cesare Veniani**](#cesare-veniani) |
+| 15:00--16:00 | [**Davide Cesare Veniani: Non-degeneracy of Enriques surfaces**](#cesare-veniani) |
 
 We intend to always feature one (longer) talk of a more survey-ish nature in each session.
 
