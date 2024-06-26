@@ -4,4 +4,6 @@ title: past
 permalink: /past
 ---
 
-Nothing to report *yet*.
+The (for now) short list of past events is:
+
+* [Tuesday **June 25** 2024 at the **University of Strasbourg**](/2024-june)

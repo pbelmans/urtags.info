@@ -1,12 +1,11 @@
 ---
 layout: page
-title: upcoming
 permalink: /2024-june
 ---
 
 ### Practical
 
-The session will take place on Tuesday **June 25** at the **University of Strasbourg**.
+The session took place on Tuesday **June 25** 2024 at the **University of Strasbourg**.
 
 IRMA - Université de Strasbourg<br>
 Salle de conférence (ground floor)<br>
