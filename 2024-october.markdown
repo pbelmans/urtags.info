@@ -1,6 +1,6 @@
 ---
 layout: page
-title: future
+title: upcoming
 permalink: /2024-october
 ---
 
