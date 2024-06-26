@@ -22,7 +22,7 @@ Université de Lorraine
 University of Luxembourg
 : [Pieter Belmans](https://pbelmans.ncag.info)
 
-University of Saarbrücken
+Saarland University
 : [Simon Bradhorst](https://www.math.uni-sb.de/ag/brandhorst/index.php?lang=en)
 
 University of Strasbourg
