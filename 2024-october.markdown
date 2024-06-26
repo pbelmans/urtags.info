@@ -6,7 +6,7 @@ permalink: /2024-october
 
 ### Practical
 
-The session will take place on Thursday **October 10** 2024 at the **University of Strasbourg**.
+The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**.
 
 ### Schedule
 
