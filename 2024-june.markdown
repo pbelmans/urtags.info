@@ -57,3 +57,7 @@ In my talk, I will illustrate our results and review the main ideas involved in 
 <a name="deng"></a>
 
 In his famous book _Basic Algebraic Geometry_, Shafarevich asked whether the universal covering of a complex projective variety is homomorphically convex (the so-called Shafarevich conjecture). Substantial progress on this conjecture was achieved by Campana, Kollar, Napier, Katzarkov, Ramachandran, Eyssidieux etc in the 1990s. In 2012 Eyssidieux et al. proved the Shafarevich conjecture for smooth projective varieties whose fundamental groups are complex linear.  In this talk, I will report some recent progress on the extension of this conjecture to cases where the variety is singular or the fundamental groups are subgroups of general linear groups in positive characteristic. If time permits, I will explain some applications in algebraic geometry. This is based on joint work with Yamanoi and Katzarkov.
+
+<hr>
+
+This event was funded by the <a href="https://www.usias.fr/en">University of Strasbourg Institute for Advanced Study (USIAS)</a>
