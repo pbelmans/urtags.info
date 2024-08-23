@@ -11,14 +11,27 @@ The session will take place on Thursday **October 10** 2024 at the **University 
 ### Schedule
 
 |--------------|-|
-| 10:30--12:00 | Vladimir Lazić|
+| 10:30--12:00 | **Vladimir Lazić**|
 | 12:00--13:30 | _lunch_ |
-| 13:30--14:30 | Simon Brandhorst|
+| 13:30--14:30 | **Simon Brandhorst**|
 | 14:30--15:00 | _coffee break_ |
-| 15:00--16:00 | Lie Fu |
+| 15:00--16:00 | **Lie Fu** |
 
 We intend to always feature one (longer) talk of a more survey-ish nature in each session.
 
 ### Speakers, titles and abstracts
+
+**Vladimir Lazić: **
+<a name="lazic"></a>
+
+tba
+
+**Simon Brandhorst: **
+<a name="lazic"></a>
+
+tba
+
+**Lie Fu: **
+<a name="lazic"></a>
 
 tba
