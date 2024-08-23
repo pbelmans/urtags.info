@@ -21,17 +21,17 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 
 ### Speakers, titles and abstracts
 
-**Vladimir Lazić: **
+**Vladimir Lazić:**
 <a name="lazic"></a>
 
 tba
 
-**Simon Brandhorst: **
+**Simon Brandhorst:**
 <a name="brandhorst"></a>
 
 tba
 
-**Lie Fu: **
+**Lie Fu:**
 <a name="fu"></a>
 
 tba
