@@ -21,7 +21,7 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 
 ### Speakers, titles and abstracts
 
-**Vladimir Lazić:**
+**Vladimir Lazić: The Abundance conjecture**
 <a name="lazic"></a>
 
 In this talk I will give a broad overview of the Abundance conjecture, which is one of the most important open problems in algebraic geometry. I will put it in the broader context of the classification of projective varieties, explain what is known and what remains to be proved, as well as elaborate on a recent strategy to use analytic techniques to prove the conjecture.
