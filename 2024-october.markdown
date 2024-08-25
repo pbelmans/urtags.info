@@ -11,7 +11,7 @@ The session will take place on Thursday **October 10** 2024 at the **University 
 ### Schedule
 
 |--------------|-|
-| 10:30--12:00 | [**Vladimir Lazić**](#lazic)|
+| 10:30--12:00 | [**Vladimir Lazić: The Abundance conjecture**](#lazic)|
 | 12:00--13:30 | _lunch_ |
 | 13:30--14:30 | [**Simon Brandhorst**](#brandhorst)|
 | 14:30--15:00 | _coffee break_ |
@@ -24,7 +24,8 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 **Vladimir Lazić:**
 <a name="lazic"></a>
 
-tba
+In this talk I will give a broad overview of the Abundance conjecture, which is one of the most important open problems in algebraic geometry. I will put it in the broader context of the classification of projective varieties, explain what is known and what remains to be proved, as well as elaborate on a recent strategy to use analytic techniques to prove the conjecture.
+
 
 **Simon Brandhorst:**
 <a name="brandhorst"></a>
