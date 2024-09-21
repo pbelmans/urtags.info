@@ -8,11 +8,20 @@ permalink: /2024-october
 
 The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**.
 
+### Directions from Stuttgart Hauptbahnhof (Main Station):
+
+Stuttgart Hauptbahnhof is currently undergoing extensive construction. Follow the signs to the underground S-Bahn station, which is about a 5-minute walk away. Take any S-Bahn from lines S1, S2, or S3, and disembark at the Stuttgart Universität station. 
+Important: After exiting the train, head toward the stairs at the rear of the platform.
+
+Signs will be posted to guide participants to the Pfaffenwaldring 57 (PWR 57) building, one of the two large, twin concrete structures nearby.
+
+URTAGS will take place on the 8th floor, in room 8.122.
+
 ### Schedule
 
 |--------------|-|
-| 10:30--12:00 | [**Vladimir Lazić: The Abundance conjecture**](#lazic)|
-| 12:00--13:30 | _lunch_ |
+| 10:45--12:15 | [**Vladimir Lazić: The Abundance conjecture**](#lazic)|
+| 12:15--13:30 | _lunch_ |
 | 13:30--14:30 | [**Simon Brandhorst: On the ramification indices of the period map of elliptic Enriques surfaces**](#brandhorst)|
 | 14:30--15:00 | _coffee break_ |
 | 15:00--16:00 | [**Lie Fu: Hyper-Kummer construction**](#fu) |
