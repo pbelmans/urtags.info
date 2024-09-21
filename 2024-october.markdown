@@ -6,8 +6,9 @@ permalink: /2024-october
 
 ### Practical
 
-The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**. The address is:
+The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**. 
 
+The address is:
 Room 8.122 (8th floor), Pfaffenwaldring 57,
 70569 Stuttgart,
 Germany
