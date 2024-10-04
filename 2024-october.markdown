@@ -9,9 +9,12 @@ permalink: /2024-october
 The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**. 
 
 The address is:
-Room 8.122 (8th floor), Pfaffenwaldring 57,
-70569 Stuttgart,
+<address>
+room V 57.04 (ground floor)<br>
+Pfaffenwaldring 57<br>
+70569 Stuttgart<br>
 Germany
+</address>
 
 ### Directions from Stuttgart Hauptbahnhof (Main Station):
 
@@ -20,7 +23,7 @@ Important: After exiting the train, head toward the stairs at the rear of the pl
 
 Signs will be posted to guide participants to the Pfaffenwaldring 57 (PWR 57) building, one of the two large, twin concrete structures nearby.
 
-URTAGS will take place on the 8th floor, in room 8.122.
+URTAGS will take place on the ground floor, in room V 57.04.
 
 ### Schedule
 
