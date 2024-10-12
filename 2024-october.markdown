@@ -5,7 +5,7 @@ permalink: /2024-october
 
 ### Practical
 
-The session will take place on Thursday **October 10** 2024 at the **University of Stuttgart**. 
+The session took place on Thursday **October 10** 2024 at the **University of Stuttgart**. 
 
 The address is:
 <address>
