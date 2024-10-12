@@ -1,6 +1,5 @@
 ---
 layout: page
-title: upcoming
 permalink: /2024-october
 ---
 
