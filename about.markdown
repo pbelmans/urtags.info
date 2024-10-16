@@ -20,7 +20,7 @@ Université de Lorraine
 : [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
 
 University of Luxembourg
-: [Pieter Belmans](https://pbelmans.ncag.info)
+: [Sarah Scherotzke](https://sites.google.com/view/sarahscherotzke/bio?authuser=0)
 
 Saarland University
 : [Simon Bradhorst](https://www.math.uni-sb.de/ag/brandhorst/index.php?lang=en)
