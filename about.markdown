@@ -11,7 +11,7 @@ permalink: /about/
 ## Organizing committee
 
 University of Basel
-: to be announced
+: [Susanna Zimmermann](https://susannazimmermann.github.io/#About)
 
 University of Freiburg
 : [Stefan Kebekus](https://cplx.vm.uni-freiburg.de/)
