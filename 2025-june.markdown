@@ -20,7 +20,7 @@ Salle de conférence (ground floor)<br>
 ### Schedule
 
 |--------------|-|
-| 10:30--12:00 | [**TBA**](#)|
+| 10:30--12:00 | [**Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**](#pacienza)|
 | 12:00--13:30 | _lunch_ |
 | 13:30--14:30 | [**TBA**]|
 | 14:30--15:00 | _coffee break_ |
@@ -30,5 +30,7 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 
 ### Speakers, titles and abstracts
 
+**Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**
+<a name="pacienza"></a>
 
 
