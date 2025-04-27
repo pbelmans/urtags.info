@@ -33,4 +33,5 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 **Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**
 <a name="pacienza"></a>
 
-
+**Daniele Agostini**
+<a name="agostini"></a>
