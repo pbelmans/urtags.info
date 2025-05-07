@@ -6,7 +6,8 @@ permalink: /2025-june
 
 ### Practical
 
-The session will take place on Thursday **June 5** 2025 at the **University of Strasbourg**. 
+The session will take place on Thursday **June 5** 2025 at the **University of Strasbourg**, 
+Salle de conférence (ground floor)
 
 The address is:
 <address>
@@ -22,9 +23,9 @@ Salle de conférence (ground floor)<br>
 |--------------|-|
 | 10:30--12:00 | [**Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**](#pacienza)|
 | 12:00--13:30 | _lunch_ |
-| 13:30--14:30 | [**TBA**]|
+| 13:30--14:30 | [**Daniele Agostini: Coble duality for Jacobian Kummer fourfolds**](#agostini)|
 | 14:30--15:00 | _coffee break_ |
-| 15:00--16:00 | [**TBA**] |
+| 15:00--16:00 | [**Massimiliano Alessandro**](#alessandro) |
 
 We intend to always feature one (longer) talk of a more survey-ish nature in each session.
 
@@ -35,3 +36,12 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 
 **Daniele Agostini**
 <a name="agostini"></a>
+
+The Coble cubic of a Jacobian abelian surface A is the unique cubic which is
+singular along A in its natural embedding in P^8. We show how to use this cubic to build a duality between
+two birational models of the Kummer fourfold of A. Along the way, we also construct a non-natural
+automorphism on the Hilbert square of A. This is joint work with Pietro Beri, Franco Giovenzana and
+Angel Rios.
+
+**Massimiliano Alessandro**
+<a name="alessandro"></a>
