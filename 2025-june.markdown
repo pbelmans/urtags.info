@@ -25,7 +25,7 @@ Salle de conférence (ground floor)<br>
 | 12:00--13:30 | _lunch_ |
 | 13:30--14:30 | [**Daniele Agostini: Coble duality for Jacobian Kummer fourfolds**](#agostini)|
 | 14:30--15:00 | _coffee break_ |
-| 15:00--16:00 | [**Massimiliano Alessandro**](#alessandro) |
+| 15:00--16:00 | [**Massimiliano Alessandro: On the birationality of the pluricanonical maps of some 3-folds of general type**](#alessandro) |
 
 We intend to always feature one (longer) talk of a more survey-ish nature in each session.
 
@@ -34,7 +34,7 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 **Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**
 <a name="pacienza"></a>
 
-**Daniele Agostini**
+**Daniele Agostini: Coble duality for Jacobian Kummer fourfolds**
 <a name="agostini"></a>
 
 The Coble cubic of a Jacobian abelian surface A is the unique cubic which is
@@ -43,5 +43,7 @@ two birational models of the Kummer fourfold of A. Along the way, we also constr
 automorphism on the Hilbert square of A. This is joint work with Pietro Beri, Franco Giovenzana and
 Angel Rios.
 
-**Massimiliano Alessandro**
+**Massimiliano Alessandro: On the birationality of the pluricanonical maps of some 3-folds of general type**
 <a name="alessandro"></a>
+
+In 2017 Catanese provided a representation-theory-based criterion to ensure that the canonical map phi of a smooth complex algebraic variety X of general type is birational under the assumption that there exists a Galois cover X->Y. In a joint work in progress with Christian Gleissner we adapt this criterion to 3-folds isogeneous to a product of curves via an abelian group and generalize it to pluricanonical maps. We also provide an effective construction method which leads us to explicit examples of 3-folds where phi is birational.
