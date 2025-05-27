@@ -34,6 +34,12 @@ We intend to always feature one (longer) talk of a more survey-ish nature in eac
 **Gianluca Pacienza: Recent progress on the Morrison-Kawamata cone conjecture**
 <a name="pacienza"></a>
 
+Many properties of a projective algebraic variety can be encoded by convex
+cones, such as the ample cone and the cone of curves. This is especially useful when these cones have only finitely many edges, as happens for Fano varieties. The Morrison-Kawamata cone conjecture predicts the structure of these cones, in terms of the action of groups of transformations, even for classes of varieties for which these cones may be round or have infinitely many edges.
+In the talk, I will try to explain the relevance of the conjecture within the framework of the MMP, present its different variants, and give an overview of some of the most recent results. 
+
+
+
 **Daniele Agostini: Coble duality for Jacobian Kummer fourfolds**
 <a name="agostini"></a>
 
