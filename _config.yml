@@ -15,7 +15,7 @@ sass:
   quiet_deps: true
 
 header_pages:
-  - 2025-june.markdown
+  - 2025-october.markdown
   - past.markdown
   - about.markdown
 
