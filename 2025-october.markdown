@@ -1,12 +1,12 @@
 ---
 layout: page
 title: upcoming
-permalink: /2026-october
+permalink: /2025-october
 ---
 
 ### Practical
 
-The session will be our first two-day event. It will take place from Monday to Tuesday **October 6-7** 2026 at the **University of Lorraine (Nancy)**, 
+The session will be our first two-day event. It will take place from Monday to Tuesday **October 6-7** 2025 at the **University of Lorraine (Nancy)**, 
 
 
 
