@@ -6,7 +6,7 @@ permalink: /2025-october
 
 ### Practical
 
-The session will be our first two-day event. It will take place from Monday to Tuesday **October 6-7** 2025 at the **University of Lorraine (Nancy)**, 
+This session will be our first two-day event! It is scheduled from Monday to Tuesday **October 6-7** 2025 at the **University of Lorraine (Nancy)**, 
 
 
 
@@ -25,13 +25,3 @@ TBA
 
 
 
-**TBA**
-<a name="speaker2"></a>
-
-TBA
-
-
-**TBA**
-<a name="speaker3"></a>
-
-TBA
