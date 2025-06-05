@@ -16,7 +16,7 @@ University of Basel
 University of Freiburg
 : [Stefan Kebekus](https://cplx.vm.uni-freiburg.de/)
 
-Université de Lorraine
+University of Lorraine
 : [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
 
 University of Luxembourg
