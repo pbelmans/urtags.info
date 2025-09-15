@@ -27,7 +27,7 @@ To get there: https://iecl.univ-lorraine.fr/getting-here/
 Monday 6 October: 
 
 |--------------|-|
-|   --14:00    | _Lunch (for those who have already arrived)_ |
+| 12:30--14:00 | _Lunch (for those who have already arrived)_ |
 | 14:00--15:30 | [**Stefan Kebekus: Hyperbolicity in C-pairs**](#kebekus)|
 | 15:30--16:00 | _coffee break_ |
 | 16:00--17:00 | [**Speaker**](#1)|
