@@ -8,7 +8,15 @@ permalink: /2025-october
 
 This session will be our first two-day event! It is scheduled from Monday to Tuesday **October 6-7** 2025 at the **IECL, University of Lorraine (Nancy)**, 
 
-Salle de Conférences, IECL building
+
+The address is:
+<address>
+Salle de Conférences<br>
+Institut Élie Cartan de Lorraine - University of Lorraine (Nancy)<br>
+Faculté des Sciences et technologie Campus, <br>
+Boulevard des Aiguillettes, BP 70239<br>
+54506 Vandœuvre-lès-Nancy<br>
+</address>
 
 To get there: https://iecl.univ-lorraine.fr/getting-here/
 
