@@ -34,6 +34,7 @@ Monday 6 October:
 | Around 19:30 | _Dinner_ |
 
 Tuesday 7 October:
+
 |--------------|-|
 | 09:30--10:30 | [**Speaker**](#2)|
 | 10:30--11:00 | _coffee break_ |
@@ -42,8 +43,8 @@ Tuesday 7 October:
 
 ### Speakers, titles and abstracts
 
-**TBA**
-<a name="speaker1"></a>
+**Stefan Kebekus: Hyperbolicity in C-pairs**
+<a name="kebekus"></a>
 
 TBA
 
