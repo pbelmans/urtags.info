@@ -6,7 +6,11 @@ permalink: /2025-october
 
 ### Practical
 
-This session will be our first two-day event! It is scheduled from Monday to Tuesday **October 6-7** 2025 at the **University of Lorraine (Nancy)**, 
+This session will be our first two-day event! It is scheduled from Monday to Tuesday **October 6-7** 2025 at the **IECL, University of Lorraine (Nancy)**, 
+
+Salle de Conférences, IECL building
+
+To get there: https://iecl.univ-lorraine.fr/getting-here/
 
 
 
