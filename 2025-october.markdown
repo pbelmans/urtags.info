@@ -24,9 +24,19 @@ To get there: https://iecl.univ-lorraine.fr/getting-here/
 
 ### Schedule
 
-TBA
+Monday 6 October: 
+|--------------|-|
+|   --14:00 | _Lunch (for who already arrived)_ |
+| 14:00--15:30 | [**Stefan Kebekus: Hyperbolicity in C-pairs**](#kebekus)|
+| 15:30--16:00 | _coffee break_ |
+| 16:00--17:00 | [**Speaker**](#)|
+| Around 19:30 | _Dinner_ |
 
-We intend to always feature one (longer) talk of a more survey-ish nature in each session.
+Tuesday 7 October:
+| 9:30--10:30 | [**Speaker**](#)|
+| 10:30--11:00 | _coffee break_ |
+| 11:00--12:00 | [**Speaker**](#) |
+| 12:00-- | _Lunch (for who haven't left)_ |
 
 ### Speakers, titles and abstracts
 
