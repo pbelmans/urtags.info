@@ -30,7 +30,7 @@ Monday 6 October:
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
 | 14:00--15:30 | [**Stefan Kebekus: Hyperbolicity in C-pairs**](#kebekus)|
 | 15:30--16:00 | _coffee break_ |
-| 16:00--17:00 | [**Speaker**](#1)|
+| 16:00--17:00 | [**Wendelin Lutz: The Morrison Cone Conjecture under deformation**](#lutz)|
 | Around 19:30 | _Dinner_ |
 
 Tuesday 7 October:
@@ -48,5 +48,12 @@ Tuesday 7 October:
 
 TBA
 
+**Wendelin Lutz: The Morrison Cone Conjecture under deformation**
+<a name="lutz"></a>
+
+Let Y be a Calabi—Yau variety. The Morrison Cone Conjecture is a fundamental conjecture in Algebraic Geometry on the geometry of the nef cone and the movable cone of Y: while these cones are usually not rational polyhedral, the cone conjecture predicts that the action of Aut(Y) on Nef(Y) admits a rational polyhedral fundamental domain, and that the action of Bir(Y) on Mov(Y) admits a rational polyhedral fundamental domain.
+
+Even though the conjecture has been settled in special cases, it is still wide open in dimension at least 3.
+We prove that if the cone conjecture holds for a smooth Calabi-Yau threefold Y, then it also holds for any smooth deformation of Y. 
 
 
