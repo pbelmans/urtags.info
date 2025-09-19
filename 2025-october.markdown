@@ -36,7 +36,7 @@ Monday 6 October:
 Tuesday 7 October:
 
 |--------------|-|
-| 09:30--10:30 | [**Speaker**](#2)|
+| 09:30--10:30 | [**Aryaman Patel: The Hitchin morphism and the Chen-Ngô conjecture**](#patel)|
 | 10:30--11:00 | _coffee break_ |
 | 11:00--12:00 | [**Speaker**](#3) |
 | 12:00--      | _Lunch (for those who haven't left)_ |
@@ -55,5 +55,13 @@ Let Y be a Calabi—Yau variety. The Morrison Cone Conjecture is a fundamental c
 
 Even though the conjecture has been settled in special cases, it is still wide open in dimension at least 3.
 We prove that if the cone conjecture holds for a smooth Calabi-Yau threefold Y, then it also holds for any smooth deformation of Y. 
+
+
+**Aryaman Patel: The Hitchin morphism and the Chen-Ngô conjecture**
+<a name="patel"></a>
+
+Abstract (if needed) : Let X be a smooth projective variety over algebraically closed k of characteristic zero. The Hitchin morphism is a map from the moduli stack of Higgs bundles to the so-called Hitchin base, which sends a Higgs bundle to the characteristic polynomial of the Higgs field. This map is surjective when X is a curve, but for dim X>1,  it is in general not surjective. The natural question is- can we describe the image of the Hitchin morphism in the latter case?
+Chen-Ng\^o showed that the Hitchin morphism factors through a closed subscheme of the Hitchin base, called the "spectral base", which can be described explicitly. They conjecture that the spectral base is the image of the Hitchin morphism.
+We prove a stronger version of this conjecture when X satisfies some conditions.
 
 
