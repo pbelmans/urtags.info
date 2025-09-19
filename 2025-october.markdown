@@ -18,7 +18,7 @@ Boulevard des Aiguillettes, BP 70239<br>
 54506 Vandœuvre-lès-Nancy<br>
 </address>
 
-To get there: https://iecl.univ-lorraine.fr/getting-here/
+[How to get there](https://iecl.univ-lorraine.fr/getting-here/)
 
 
 
