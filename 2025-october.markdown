@@ -26,7 +26,7 @@ Boulevard des Aiguillettes, BP 70239<br>
 
 Monday 6 October: 
 
-|-----------------|-|
+|------------------------|-|
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
 | 14:00--15:30 | [**Stefan Kebekus: Hyperbolicity in C-pairs**](#kebekus)|
 | 15:30--16:00 | _coffee break_ |
