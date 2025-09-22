@@ -46,7 +46,8 @@ Tuesday 7 October:
 **Stefan Kebekus: Hyperbolicity in C-pairs**
 <a name="kebekus"></a>
 
-TBA
+Almost twenty years ago, Campana introduced C-pairs to complex geometry. Interpolating between compact and non-compact geometry, C-pairs capture the notion of "fractional positivity" in the "fractional logarithmic tangent bundle". Today, they are an indispensible tool in the study of hyperbolicity, higher-dimensional birational geometry and several branches of arithmetic geometry. This talk reports on joint work with Erwan Rousseau. We clarify the notion of a "morphism of C-pairs", define (and prove the existence of) a "C-Albanese variety", and discuss the beginnings of a Nevanlinna theory for "orbifold entire curves".
+
 
 **Benoît Cadorel: Hyperbolicity of projective hypersurfaces via Green-Griffiths jet differentials**
 <a name="cadorel"></a>
