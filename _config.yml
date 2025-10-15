@@ -15,7 +15,7 @@ sass:
   quiet_deps: true
 
 header_pages:
-  - 2026-juin.markdown
+  - 2026-june.markdown
   - past.markdown
   - about.markdown
 
