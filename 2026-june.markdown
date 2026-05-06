@@ -23,7 +23,7 @@ Salle de conférence (ground floor)<br>
 |--------------|-|
 | 10:30--12:00 | [**TBA**](#1)|
 | 12:00--13:30 | _lunch_ |
-| 13:30--14:30 | [**TBA**](#2)|
+| 13:30--14:30 | [**Reinder Meinsma:  Categorical Torelli Theorems for Fano double covers**](#2)|
 | 14:30--15:00 | _coffee break_ |
 | 15:00--16:00 | [**TBA**](#3) |
 
@@ -36,10 +36,14 @@ Salle de conférence (ground floor)<br>
 **TBA**
 <a name="1"></a>
 
-
-
-**TBA**
+**Reinder Meinsma:  Categorical Torelli Theorems for Fano double covers**
 <a name="2"></a>
+
+Fano varieties can be completely recovered up to isomorphism from their bounded derived categories of coherent sheaves, as was proved by Bondal and Orlov. In many cases, the derived category of a Fano variety has a natural decomposition into smaller pieces, and the most interesting piece is called the Kuznetsov component. The categorical Torelli problem is the question of whether a Fano variety can be recovered from its Kuznetsov component. In this talk, I will prove categorical Torelli theorems for several families of Fano varieties which appear as double covers. The proof proceeds through a careful study of the branch divisors, which happen to be K3 surfaces, and consists of a healthy mixture of explicit geometry and derived categories. This is joint work with Augustinas Jacovskis.
+
+
+
+
 
 
 
