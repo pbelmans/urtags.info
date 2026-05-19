@@ -25,7 +25,7 @@ Salle de conférence (ground floor)<br>
 | 12:00--13:30 | _lunch_ |
 | 13:30--14:30 | [**Reinder Meinsma:  Categorical Torelli Theorems for Fano double covers**](#2)|
 | 14:30--15:00 | _coffee break_ |
-| 15:00--16:00 | [**Pietro Beri: TBA**](#3) |
+| 15:00--16:00 | [**Pietro Beri: Involutions on Hilbert schemes of K3 surfaces**](#3) |
 
 
 
@@ -39,6 +39,7 @@ Salle de conférence (ground floor)<br>
 The bounded derived category D^b(X) encodes deep information of an algebraic variety. For K3 surfaces, the celebrated derived Torelli theorem by Mukai and Orlov states that two K3 surfaces are derived equivalent if and only if there exists a Hodge isometry between their Mukai lattices. In recent years, this elegant theory has been extensively generalized to higher-dimensional compact hyperkähler manifolds.
 This talk aims to provide a survey of the developments in this field. We will begin by reviewing the classical derived Torelli theorem for K3 surfaces and introduce essential tools such as the Mukai lattice. We will then give an overview of some of the recent results of the generalization to hyperkähler manifolds.
 
+
 **Reinder Meinsma:  Categorical Torelli Theorems for Fano double covers**
 <a name="2"></a>
 
@@ -51,8 +52,9 @@ Fano varieties can be completely recovered up to isomorphism from their bounded 
 
 
 
-**Pietro Beri: TBA**
+**Pietro Beri: Involutions on Hilbert schemes of K3 surfaces**
 <a name="3"></a>
 
+The Torelli theorem for hyper-Kähler varieties allows one to study the birational automorphisms of a punctual Hilbert scheme of a K3 surface by algebraic methods. In particular, these automorphisms have been classified, in joint work with Al. Cattaneo, in the case of an algebraic K3 surface with Picard rank one. This classification, however, does not shed light on their geometric realization. Finding such a description is typically a subtle and challenging problem: beyond the classical Beauville involutions, only finitely many explicit constructions are known in the literature. In this talk, I will describe a new infinite family of involutions and discuss some interesting consequences of their construction. This is a joint work with L. Manivel.
 
 
