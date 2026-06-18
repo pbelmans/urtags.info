@@ -1,12 +1,11 @@
 ---
 layout: page
-title: upcoming
 permalink: /2026-june
 ---
 
 ### Practical
 
-The session will take place on Thursday **June 11** 2026 at the **University of Strasbourg**, 
+The session took place on Thursday **June 11** 2026 at the **University of Strasbourg**, 
 Salle de conférence (ground floor)
 
 The address is:
