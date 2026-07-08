@@ -9,20 +9,28 @@ permalink: /2026-october
 This session is a two-day event! It will take place from Thursday to Friday **October 8-9** 2026 at the **Saarland University**, 
 
 <address>
-Department of Mathematics, University of Saarland. 
-**Lecture Hall III** in the building **E2.5**
+Department of Mathematics, University of Saarland.
+  
+Lecture Hall III in the building E2.5
 </address>
 
 [Map of the campus](https://www.openstreetmap.org/search?lat=49.256166&lon=7.045884&zoom=19#map=19/49.256166/7.045884
 )
+
+
 How to get there：
+
+
 The best way to reach the campus from Saarbrücken is by public transport. 
-From the bus stop Universität Mensa， it is a short walk downhill to the buildings E2.4 and E2.5. 
+From the bus stop Universität Mensa, it is a short walk downhill to the buildings E2.4 and E2.5. 
 
 You can use the buses
--> 112 and 124 from the central station,
--> 101, 102, and 109 from the bus stop Rathaus in the city centre,
--> 101, 102, 111, 112 and 124 from the bus stop Haus der Zukunft in the city centre.
+
+112 and 124 from the central station,
+ 
+101, 102, and 109 from the bus stop Rathaus in the city centre,
+
+101, 102, 111, 112 and 124 from the bus stop Haus der Zukunft in the city centre.
 
 If you arrive by car, preferably use the car park P3 (Uni Ost) on the campus.
 
