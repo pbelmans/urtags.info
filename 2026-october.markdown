@@ -52,7 +52,7 @@ Thursday 8 October:
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
 | 14:00--15:30 | [****](#speaker1)|
 | 15:30--16:00 | _coffee break_ |
-| 16:00--17:00 | [****](#spearker2)|
+| 16:00--17:00 | [**Qaasim Shafi**](#spearker2)|
 | Around 19:30 | _Dinner_ |
 
 Friday 9 October:
@@ -70,7 +70,7 @@ Friday 9 October:
 
 
 
-****
+**Qaasim Shafi**
 <a name="speaker2"></a>
 
 
