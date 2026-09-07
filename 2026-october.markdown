@@ -35,6 +35,12 @@ You can use the buses
 If you arrive by car, preferably use the car park P3 (Uni Ost) on the campus.
 
 
+### Registration (deadline 21 September)
+https://docs.google.com/forms/d/e/1FAIpQLSefjXRtqKxxf-MXLQo4w6DH03amQmIZ9taxL0yURamRXZKlUg/viewform 
+
+### More related activities:
+Before the URTAGS, there is a three-day conference, [Complex and Algebraic Geometry in Saarbrücken](https://sites.google.com/view/complex-and-algebraic-geometry) (5-7 October). 
+
 
 ### Schedule
 
@@ -42,7 +48,7 @@ Thursday 8 October:
 
 |----------|-|
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
-| 14:00--15:30 | [**Stefan Schreieder**](#speaker1)|
+| 14:00--15:30 | [****](#speaker1)|
 | 15:30--16:00 | _coffee break_ |
 | 16:00--17:00 | [****](#spearker2)|
 | Around 19:30 | _Dinner_ |
@@ -50,14 +56,14 @@ Thursday 8 October:
 Friday 9 October:
 
 |-----------------|-|
-| 09:30--10:30 | [****](#speaker3)|
+| 09:00--10:30 | [**Stefan Schreieder**](#speaker3)|
 | 10:30--11:00 | _coffee break_ |
 | 11:00--12:00 | [****](#speaker4)|
 | 12:00--      | _Lunch (for those who haven't left)_ |
 
 ### Speakers, titles and abstracts
 
-**Stefan Schreieder**
+****
 <a name="speaker1"></a>
 
 
@@ -68,7 +74,7 @@ Friday 9 October:
 
 
 
-****
+**Stefan Schreieder**
 <a name="speaker3"></a>
 
 
