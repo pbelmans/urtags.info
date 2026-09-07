@@ -36,10 +36,12 @@ If you arrive by car, preferably use the car park P3 (Uni Ost) on the campus.
 
 
 ### Registration (deadline 21 September)
-https://docs.google.com/forms/d/e/1FAIpQLSefjXRtqKxxf-MXLQo4w6DH03amQmIZ9taxL0yURamRXZKlUg/viewform 
+[Link](https://docs.google.com/forms/d/e/1FAIpQLSefjXRtqKxxf-MXLQo4w6DH03amQmIZ9taxL0yURamRXZKlUg/viewform)
 
-### More related activities:
-Before the URTAGS, there is a three-day conference, [Complex and Algebraic Geometry in Saarbrücken](https://sites.google.com/view/complex-and-algebraic-geometry) (5-7 October). 
+#### Another related activities:
+Before the URTAGS, there is a three-day conference (5-7 October):
+
+[Complex and Algebraic Geometry in Saarbrücken](https://sites.google.com/view/complex-and-algebraic-geometry)  
 
 
 ### Schedule
