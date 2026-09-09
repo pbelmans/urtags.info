@@ -60,7 +60,7 @@ Friday 9 October:
 |-----------------|-|
 | 09:00--10:30 | [**Stefan Schreieder**](#speaker3)|
 | 10:30--11:00 | _coffee break_ |
-| 11:00--12:00 | [****](#speaker4)|
+| 11:00--12:00 | [**Daniela Paiva**](#speaker4)|
 | 12:00--      | _Lunch (for those who haven't left)_ |
 
 ### Speakers, titles and abstracts
@@ -81,7 +81,7 @@ Friday 9 October:
 
 
 
-****
+**Daniela Paiva**
 <a name="speaker4"></a>
 
 
