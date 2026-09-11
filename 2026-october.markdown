@@ -50,7 +50,7 @@ Thursday 8 October:
 
 |----------|-|
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
-| 14:00--15:00 | [**Simone Billi**](#speaker1)|
+| 14:00--15:00 | [**Simone Billi: On the L-equivalence of cubic fourfolds**](#speaker1)|
 | 15:15--16:15 | [****](#speaker1')|
 | 16:15--16:45 | _coffee break_ |
 | 17:00--18:00 | [**Qaasim Shafi**](#spearker2)|
@@ -66,7 +66,7 @@ Friday 9 October:
 
 ### Speakers, titles and abstracts
 
-**Simone Billi**
+**Simone Billi: On the L-equivalence of cubic fourfolds**
 <a name="speaker1"></a>
 
 
