@@ -69,6 +69,8 @@ Friday 9 October:
 **Simone Billi: On the L-equivalence of cubic fourfolds**
 <a name="speaker1"></a>
 
+Recent progresses point to a possible tie between L-equivalence and properties of the derived category, we explore this in the case of cubic fourfolds. We show that two very general L-equivalent cubic fourfolds are isomorphic. This is false for some special cubic fourfolds, i.e. belonging to certain Hassett divisors C_d. If the cubic fourfolds are L-equivalent and very general in a Hassett divisor C_d with d not divided by 9, then they are Fourier–Mukai partners.
+This is based on a joint work with L. Li Bassi.
 
 
 **Qaasim Shafi**
