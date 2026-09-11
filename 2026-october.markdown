@@ -53,7 +53,7 @@ Thursday 8 October:
 | 14:00--15:00 | [**Simone Billi: On the L-equivalence of cubic fourfolds**](#speaker1)|
 | 15:15--16:15 | [****](#speaker1')|
 | 16:15--16:45 | _coffee break_ |
-| 17:00--18:00 | [**Qaasim Shafi**](#spearker2)|
+| 17:00--18:00 | [**Qaasim Shafi: Hilbert schemes of points, quantum cohomology and tropical curves**](#spearker2)|
 | Around 19:30 | _Dinner_ |
 
 Friday 9 October:
@@ -69,14 +69,14 @@ Friday 9 October:
 **Simone Billi: On the L-equivalence of cubic fourfolds**
 <a name="speaker1"></a>
 
-Recent progresses point to a possible tie between L-equivalence and properties of the derived category, we explore this in the case of cubic fourfolds. We show that two very general L-equivalent cubic fourfolds are isomorphic. This is false for some special cubic fourfolds, i.e. belonging to certain Hassett divisors C_d. If the cubic fourfolds are L-equivalent and very general in a Hassett divisor C_d with d not divided by 9, then they are Fourier–Mukai partners.
-This is based on a joint work with L. Li Bassi.
+Recent progress points to a possible tie between L-equivalence and properties of the derived category, we explore this in the case of cubic fourfolds. We show that two very general L-equivalent cubic fourfolds are isomorphic. This is false for some special cubic fourfolds, i.e., belonging to certain Hassett divisors C_d. If the cubic fourfolds are L-equivalent and very general in a Hassett divisor C_d with d not divisible by 9, then they are Fourier–Mukai partners.
+This is based on joint work with L. Li Bassi.
 
 
-**Qaasim Shafi**
+**Qaasim Shafi: Hilbert schemes of points, quantum cohomology and tropical curves**
 <a name="speaker2"></a>
 
-
+For a smooth surface S, the Hilbert scheme of points on S gives a smooth compactification of the configuration space of n distinct points on S. Its cohomology is by now well understood and exhibits deep connections with representation theory. Understanding its quantum cohomology, a deformation of ordinary cohomology involving curve counting invariants, has since received a lot of attention. I will explain joint work with Georg Oberdieck and Aaron Pixton about how to determine this ring for an elliptic surface, with the help of tropical geometry. 
 
 
 **Stefan Schreieder**
