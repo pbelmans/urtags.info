@@ -59,7 +59,7 @@ Thursday 8 October:
 Friday 9 October:
 
 |-----------------|-|
-| 09:00--10:30 | [**Stefan Schreieder**](#speaker3)|
+| 09:00--10:30 | [**Stefan Schreieder: Cubic threefolds that are not retract rational**](#speaker3)|
 | 10:30--11:00 | _coffee break_ |
 | 11:00--12:00 | [**Daniela Paiva**](#speaker4)|
 | 12:00--      | _Lunch (for those who haven't left)_ |
@@ -79,8 +79,10 @@ This is based on joint work with L. Li Bassi.
 For a smooth surface S, the Hilbert scheme of points on S gives a smooth compactification of the configuration space of n distinct points on S. Its cohomology is by now well understood and exhibits deep connections with representation theory. Understanding its quantum cohomology, a deformation of ordinary cohomology involving curve counting invariants, has since received a lot of attention. I will explain joint work with Georg Oberdieck and Aaron Pixton about how to determine this ring for an elliptic surface, with the help of tropical geometry. 
 
 
-**Stefan Schreieder**
+**Stefan Schreieder: Cubic threefolds that are not retract rational**
 <a name="speaker3"></a>
+
+A smooth variety over a field k is retract rational if for any field extension L of k its L-points can be parametrized by rational functions. If this parametrization is generically 1:1 then the variety is rational. I will explain that one can trace this notion back to Euler and give many examples, concentrating in particular on cubics. I will then sketch a proof that the very general complex cubic threefold is not retract rational. Joint work with Philip Engel and Olivier de Gaay Fortman.
 
 
 
