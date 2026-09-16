@@ -35,7 +35,7 @@ You can use the buses
 If you arrive by car, preferably use the car park P3 (Uni Ost) on the campus.
 
 
-### Registration (deadline 21 September)
+### Registration (deadline 25 September)
 [Link](https://docs.google.com/forms/d/e/1FAIpQLSefjXRtqKxxf-MXLQo4w6DH03amQmIZ9taxL0yURamRXZKlUg/viewform)
 
 #### Another related activities:
