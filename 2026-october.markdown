@@ -51,7 +51,7 @@ Thursday 8 October:
 |----------|-|
 | 12:30--14:00 | _Lunch (for those who have already arrived)_ |
 | 14:00--15:00 | [**Simone Billi: On the L-equivalence of cubic fourfolds**](#speaker1)|
-| 15:15--16:15 | [****](#speaker1')|
+| 15:15--16:15 | [**Eduardo Alves da Silva: Log Calabi-Yau geometry and Cremona equivalence**](#speaker1')|
 | 16:15--16:45 | _coffee break_ |
 | 17:00--18:00 | [**Qaasim Shafi: Hilbert schemes of points, quantum cohomology and tropical curves**](#spearker2)|
 | Around 19:30 | _Dinner_ |
@@ -71,6 +71,12 @@ Friday 9 October:
 
 Recent progress points to a possible tie between L-equivalence and properties of the derived category, we explore this in the case of cubic fourfolds. We show that two very general L-equivalent cubic fourfolds are isomorphic. This is false for some special cubic fourfolds, i.e., belonging to certain Hassett divisors C_d. If the cubic fourfolds are L-equivalent and very general in a Hassett divisor C_d with d not divisible by 9, then they are Fourier–Mukai partners.
 This is based on joint work with L. Li Bassi.
+
+**Eduardo Alves da Silva: Log Calabi-Yau geometry and Cremona equivalence**
+<a name="speaker1'"></a>
+
+Log Calabi-Yau geometry is the study of log Calabi-Yau pairs. Among these, the notion of volume-preserving equivalence gives rise to interesting subgroups of birational automorphism groups and, in the case of the projective space, to Cremona equivalence. Such questions depend on the birational geometry of the pairs involved. In this talk, I will address and share some findings on the challenging problem of classifying log Calabi-Yau pairs (P^3, S) of coregularity 2. This problem turns out to be equivalent to understanding Cremona equivalence among canonical quartic surfaces. This is a joint work in progress with Daniela Paiva, Sokratis Zikas & Felipe Zingali Meira.
+
 
 
 **Qaasim Shafi: Hilbert schemes of points, quantum cohomology and tropical curves**
