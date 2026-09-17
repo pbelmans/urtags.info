@@ -61,7 +61,7 @@ Friday 9 October:
 |-----------------|-|
 | 09:00--10:30 | [**Stefan Schreieder: Cubic threefolds that are not retract rational**](#speaker3)|
 | 10:30--11:00 | _coffee break_ |
-| 11:00--12:00 | [**Daniela Paiva**](#speaker4)|
+| 11:00--12:00 | [**Daniela Paiva: Birational geometry of Fano 3-folds and anticanonical surfaces**](#speaker4)|
 | 12:00--      | _Lunch (for those who haven't left)_ |
 
 ### Speakers, titles and abstracts
@@ -86,8 +86,14 @@ A smooth variety over a field k is retract rational if for any field extension L
 
 
 
-**Daniela Paiva**
+**Daniela Paiva: Birational geometry of Fano 3-folds and anticanonical surfaces**
 <a name="speaker4"></a>
 
+The problem of determining which automorphisms of a projective K3 surface 
+S are induced by birational maps of an ambient space in which it is embedded remains open. This is known as Gizatullin's problem.
+
+In this seminar, I will provide a general background on the theory of K3 surfaces and the birational geometry of Fano 3-folds, and explain how the interplay between these areas can be exploited to address the problem. In particular, I will present a solution to Gizatullin's problem in certain specific cases.
+
+The results I will present are part of joint works with Carolina Araujo, Michela Artebani, Alice Garbagnati, Ana Quedo, and Sokratis Zikas.
 
 
