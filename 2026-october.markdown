@@ -42,7 +42,7 @@ If you arrive by car, preferably use the car park P3 (Uni Ost) on the campus.
 [Yedo Saarbrücken](https://yedo-saarbruecken.de/)
 Sankt-Johanner-Markt 19, 66111 Saarbrücken
 
-#### Another related activities:
+#### Another related activity:
 Before the URTAGS, there is a three-day conference (5-7 October):
 
 [Complex and Algebraic Geometry in Saarbrücken](https://sites.google.com/view/complex-and-algebraic-geometry)  
