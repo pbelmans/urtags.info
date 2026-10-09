@@ -17,7 +17,7 @@ University of Freiburg
 : [Stefan Kebekus](https://cplx.vm.uni-freiburg.de/)
 
 University of Lorraine
-: [Gianluca Pacienza](https://iecl.univ-lorraine.fr/membre-iecl/pacienza-gianluca/)
+: [Benoît Cadorel](https://www.normalesup.org/~bcadorel/en.html)
 
 University of Luxembourg
 : [Sarah Scherotzke](https://sites.google.com/view/sarahscherotzke/bio?authuser=0)
